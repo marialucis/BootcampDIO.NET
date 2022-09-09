@@ -1,0 +1,15 @@
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\bin\Debug\net6.0\Fundamentos_testes.exe
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\bin\Debug\net6.0\Fundamentos_testes.deps.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\bin\Debug\net6.0\Fundamentos_testes.runtimeconfig.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\bin\Debug\net6.0\Fundamentos_testes.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\bin\Debug\net6.0\Fundamentos_testes.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.csproj.AssemblyReference.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.AssemblyInfoInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.AssemblyInfo.cs
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.csproj.CoreCompileInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\refint\Fundamentos_testes.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\Fundamentos_testes.genruntimeconfig.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_testes\obj\Debug\net6.0\ref\Fundamentos_testes.dll

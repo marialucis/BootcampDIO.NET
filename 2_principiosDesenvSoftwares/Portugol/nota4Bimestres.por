@@ -37,7 +37,7 @@ programa
 			escreva(nome+ ",Recuperação Final")		
 		}
 		senao
-			escreva("Reprovado! Favor, dirija-se até a secretaria")
+			escreva("Reprovado! Favor, dirija-se até a secretarias")
 	}
 
 
