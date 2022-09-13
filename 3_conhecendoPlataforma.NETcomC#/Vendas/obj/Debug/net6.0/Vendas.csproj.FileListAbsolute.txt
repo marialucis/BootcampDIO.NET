@@ -1,0 +1,15 @@
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\bin\Debug\net6.0\Vendas.exe
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\bin\Debug\net6.0\Vendas.deps.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\bin\Debug\net6.0\Vendas.runtimeconfig.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\bin\Debug\net6.0\Vendas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\bin\Debug\net6.0\Vendas.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.csproj.AssemblyReference.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.AssemblyInfoInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.AssemblyInfo.cs
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.csproj.CoreCompileInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\refint\Vendas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\Vendas.genruntimeconfig.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Vendas\obj\Debug\net6.0\ref\Vendas.dll
