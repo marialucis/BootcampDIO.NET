@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DCwgnvipjHYK1V126p9e2jwL9laP2y+7ZZaHQmnJWBN1mg0qFu5T5CDJlHFy35+X0/Rm19AvMT6HinCJ1LLjKA==",
+  "dgSpecHash": "PFHy3nFWJWhOR0tCM+IEr1w+1CRzNyMiWbGDlI3Kicl1UK3+mdeGENHYLgaPEPz9djptCdobL+4I/7y1r95Z8w==",
   "success": true,
-  "projectFilePath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\Vendas.csproj",
+  "projectFilePath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\Vendas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\Vendas.csproj": {}
+    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\Vendas.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\Vendas.csproj": {
+    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\Vendas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\Vendas.csproj",
+        "projectUniqueName": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\Vendas.csproj",
         "projectName": "Vendas",
-        "projectPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\Vendas.csproj",
+        "projectPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\Vendas.csproj",
         "packagesPath": "C:\\Users\\Lux\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Vendas\\obj\\",
+        "outputPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\vendas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lux\\AppData\\Roaming\\NuGet\\NuGet.Config",
