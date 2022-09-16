@@ -1,0 +1,15 @@
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\bin\Debug\net6.0\Tabuada.exe
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\bin\Debug\net6.0\Tabuada.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\refint\Tabuada.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll
