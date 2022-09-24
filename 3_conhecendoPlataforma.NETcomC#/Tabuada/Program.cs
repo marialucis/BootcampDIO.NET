@@ -25,11 +25,6 @@ while (contador <= 10)
 
 
 
-
-
-
-
-
 // //usando for
 // Console.WriteLine("Digite um numero: ");
 // int numero = int.Parse(Console.ReadLine());
