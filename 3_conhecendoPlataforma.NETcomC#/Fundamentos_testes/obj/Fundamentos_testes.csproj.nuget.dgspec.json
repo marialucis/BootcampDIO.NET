@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\fundamentos_testes\\Fundamentos_testes.csproj": {}
+    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_testes\\Fundamentos_testes.csproj": {}
   },
   "projects": {
-    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\fundamentos_testes\\Fundamentos_testes.csproj": {
+    "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_testes\\Fundamentos_testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\fundamentos_testes\\Fundamentos_testes.csproj",
+        "projectUniqueName": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_testes\\Fundamentos_testes.csproj",
         "projectName": "Fundamentos_testes",
-        "projectPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\fundamentos_testes\\Fundamentos_testes.csproj",
+        "projectPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_testes\\Fundamentos_testes.csproj",
         "packagesPath": "C:\\Users\\Lux\\.nuget\\packages\\",
-        "outputPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\fundamentos_testes\\obj\\",
+        "outputPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lux\\AppData\\Roaming\\NuGet\\NuGet.Config",
