@@ -1,0 +1,15 @@
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.csproj.AssemblyReference.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.AssemblyInfoInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.AssemblyInfo.cs
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.csproj.CoreCompileInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\bin\Debug\net6.0\Listas.exe
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\bin\Debug\net6.0\Listas.deps.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\bin\Debug\net6.0\Listas.runtimeconfig.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\bin\Debug\net6.0\Listas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\bin\Debug\net6.0\Listas.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\refint\Listas.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\Listas.genruntimeconfig.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Listas\obj\Debug\net6.0\ref\Listas.dll
