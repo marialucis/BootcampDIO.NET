@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/Fundamentos_testes/Fundamentos_testes.csproj",
+                "${workspaceFolder}/Listas/Listas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/Fundamentos_testes/Fundamentos_testes.csproj",
+                "${workspaceFolder}/Listas/Listas.csproj",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/Fundamentos_testes/Fundamentos_testes.csproj"
+                "${workspaceFolder}/Listas/Listas.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
