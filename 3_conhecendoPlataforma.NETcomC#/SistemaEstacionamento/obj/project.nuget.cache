@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QsPBPz45Pj6bGELzim4Cm1qJDdLgQavPLWxuPxRWnPUqo7effnTZgNSnO4qqSp/wwdVvwGjwNL50dN3KaxYUxw==",
+  "success": true,
+  "projectFilePath": "/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/SistemaEstacionamento/Estacionamento.csproj",
+  "expectedPackageFiles": [
+    "/home/luci_dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
