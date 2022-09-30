@@ -1,0 +1,15 @@
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\bin\Debug\net6.0\Fundamentos_part2.exe
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\bin\Debug\net6.0\Fundamentos_part2.deps.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\bin\Debug\net6.0\Fundamentos_part2.runtimeconfig.json
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\bin\Debug\net6.0\Fundamentos_part2.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\bin\Debug\net6.0\Fundamentos_part2.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.csproj.AssemblyReference.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.AssemblyInfoInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.AssemblyInfo.cs
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.csproj.CoreCompileInputs.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\refint\Fundamentos_part2.dll
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.pdb
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\Fundamentos_part2.genruntimeconfig.cache
+D:\Repositorio_git\12_BootcampDIOC#\3_conhecendoPlataforma.NETcomC#\Fundamentos_part2\obj\Debug\net6.0\ref\Fundamentos_part2.dll
