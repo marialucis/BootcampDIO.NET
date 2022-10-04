@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/luci_dev/.nuget/packages/": {}
+    "C:\\Users\\Lux\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/Fundamentos_part2/Fundamentos_part2.csproj",
+      "projectUniqueName": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_part2\\Fundamentos_part2.csproj",
       "projectName": "Fundamentos_part2",
-      "projectPath": "/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/Fundamentos_part2/Fundamentos_part2.csproj",
-      "packagesPath": "/home/luci_dev/.nuget/packages/",
-      "outputPath": "/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/Fundamentos_part2/obj/",
+      "projectPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_part2\\Fundamentos_part2.csproj",
+      "packagesPath": "C:\\Users\\Lux\\.nuget\\packages\\",
+      "outputPath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_part2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/luci_dev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Lux\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -54,18 +56,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.8, 6.0.8]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

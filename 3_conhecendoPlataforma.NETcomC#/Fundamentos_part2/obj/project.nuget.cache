@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SRWaKG1A5dbt2RiySBtnh0WWLJfj1wmY7yWXra9J9jwX5kJTZlmx923OTAVQy/ZXE0QgWBs8m6oQS1r7nvVcjg==",
+  "dgSpecHash": "DQ9Djd0IeX7roU+A8X+YvxE2h0kJIIobyAkEz7IY0Y3OmJOJ0tgJN7ddvjFjiJudIv/HJZlQbxfkNvqvFsdGEg==",
   "success": true,
-  "projectFilePath": "/home/luci_dev/Área de Trabalho/Repositorio_git/12_BootcampDIOC#/BootcampDIO.NET/3_conhecendoPlataforma.NETcomC#/Fundamentos_part2/Fundamentos_part2.csproj",
-  "expectedPackageFiles": [
-    "/home/luci_dev/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
-  ],
+  "projectFilePath": "D:\\Repositorio_git\\12_BootcampDIOC#\\3_conhecendoPlataforma.NETcomC#\\Fundamentos_part2\\Fundamentos_part2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
