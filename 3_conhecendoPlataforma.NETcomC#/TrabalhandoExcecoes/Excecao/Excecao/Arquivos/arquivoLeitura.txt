@@ -1,0 +1,2 @@
+﻿Lendo arquivo 1
+Lendo aqruivo 2
