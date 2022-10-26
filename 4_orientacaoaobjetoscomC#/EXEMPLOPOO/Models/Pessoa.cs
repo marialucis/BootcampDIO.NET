@@ -8,7 +8,7 @@ namespace EXEMPLOPOO.Models
         public int Idade { get; set; }
 
 
-        public void Apresentar()
+        public virtual void Apresentar() //Polimorfismo....utilizando o metdo virtual no metodo para poder sobrescrever 
         {
             Console.WriteLine($"Olá, meu nome é {Nome} e tenho {Idade} anos!");
         }
