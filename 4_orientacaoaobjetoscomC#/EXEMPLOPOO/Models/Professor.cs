@@ -1,9 +1,13 @@
 namespace EXEMPLOPOO.Models
 {
-    public class Professor : Pessoa //Professor herda da classe Pessoa
+    // classe selada(sealed) não pode ser herdada
+    public /*sealed*/ class Professor : Pessoa //Professor herda da classe Pessoa
     {
+        public Professor()
+        {
 
-        public Professor(string nome, int idade, decimal salrio) //construtor
+        }
+        public Professor(string nome, int idade, decimal salrio) : base(nome) //construtor
         {   
             Nome = nome;
             Idade = idade;

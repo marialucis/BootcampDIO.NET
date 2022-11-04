@@ -1,8 +1,16 @@
 namespace EXEMPLOPOO.Models
 {
     public class Pessoa
-    {
+    {   
+        public Pessoa()
+        {
+            
+        }
 
+        public Pessoa(string nome) //construtor por herença
+        {
+             Nome = nome;   
+        }
         //Testando Abstracao
         public string Nome { get; set; }
         public int Idade { get; set; }

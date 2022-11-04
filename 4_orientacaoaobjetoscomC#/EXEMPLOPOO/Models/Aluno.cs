@@ -2,8 +2,12 @@ namespace EXEMPLOPOO.Models
 {
     public class Aluno : Pessoa //Aluno herda da classe Pessoa
     {
-
-        public Aluno(int nota, string nome, int idade){
+        public Aluno()
+        {
+        }
+        public Aluno(int nota, string nome, int idade) : base (nome) //construtor herda da classe pessoa
+        {
+            
             Nota = nota;
             Nome = nome;
             Idade = idade;
