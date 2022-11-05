@@ -6,7 +6,7 @@ O Bootcamp possui uma carga horaria de 96 horas. É um trilha de conhecimento do
 *  Principios de Desenvolvimento de Software
 *  Conhecendo a Plataforma .NET com C#
 *  Orientação a Objetos com C#
-*  Bancos de Dados Relacionais- SQL Server
+*  Bancos de Dados Relacionais- SQL Server 2019
 *  Dominando o Ecossitema .NET
   
 
