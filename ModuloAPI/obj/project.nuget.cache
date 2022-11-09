@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KWkq1u0S6rSNHSzATUgPPwSSNSbaAYPSf0QK6fN2x5FS+YLxH5N+wAghvXK6l7vsKh9ewgvSFKdJqciRMWnX0w==",
+  "success": true,
+  "projectFilePath": "D:\\Repositorio_git\\12_BootcampDIOC#\\BootcampDIO.NET\\ModuloAPI\\ModuloAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lux\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Lux\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Lux\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lux\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lux\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Lux\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
